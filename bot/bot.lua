@@ -87,7 +87,7 @@ function create_config( )
     "expiretime",
     "mute-time",
     "del",
-	"lock-fosh"
+	"lock-fosh",
 	"save_bot"
 	
  },
